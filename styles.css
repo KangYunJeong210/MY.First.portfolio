@@ -3082,6 +3082,11 @@ button.btn--pill {
     }
 }
 
+
+.justiy{
+    justify-content: center;
+}
+
 /* ------------------------------------------------------------------- 
  * ## MailtoUI style overrides
  * ------------------------------------------------------------------- */
@@ -3973,6 +3978,7 @@ button.btn--pill {
 
 .s-portfolio__header img {
     width: 150px;
+    
 }
 
 /*.folio-item__thumb::before {
@@ -4567,6 +4573,7 @@ button.btn--pill {
     padding-top: 50%; 
 }
 
+
 .fh5co-social-icons {
     margin: 0;
     padding: 0;
@@ -5028,4 +5035,8 @@ button.btn--pill {
       .col-md-3{
         width:100%;
       }
+}
+
+.row{
+    justify-content: center;
 }
